@@ -5,7 +5,7 @@ from apiclient.discovery import build
 import requests
 
 
-youtube_api = "AIzaSyDW8dEPvOUC1cvIzjsLh8ZOp8KvTGv_zp0"
+youtube_api = "paste-your-youtube-api-here"
 
 def get_api_data(API_KEY, Region):
     videos = []
